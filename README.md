@@ -7,7 +7,10 @@ Has all script commands and constants.
 
 
 How to add to notepad++ ?
- - Open your notepad and go to the Language menu and select: "Define your language...". Then select the file with the "Import" button.
+ - Open your notepad++ and go to the Language > Define your language... > Import.
+ - Use default styles in the Settings > Style Configurator > Select theme: Default.
+ - Or you can download /themes/rAthenaWhite.xml and import it in the settings and then modify rAthenaWhite styles.
+ - Restart notepad++ after changing language or styles.
 
 
 Sources:
