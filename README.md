@@ -14,8 +14,8 @@ How to add to notepad++ ?
 
 
 Sources:
- - rAthena/doc/script_commands.txt, commit c0ed836e87a52d107e7ae09d255f662e1417dd89 (23-08-2014).
- - rAthena/db/const.txt, commit c6ba813994eaaae0a98416f5be7ff65d0e8e13b5 (30-09-2014).
+ - rAthena/doc/script_commands.txt, commit 177ea6c779579dff146d5e21f6dcffe17fe3ae9f
+ - rAthena/db/const.txt, commit c6ba813994eaaae0a98416f5be7ff65d0e8e13b5
 
 
 Happy editing.
