@@ -21,7 +21,7 @@ Make a new style theme or edit existing one:
 
 Sources:
  - rAthena/doc/script_commands.txt, commit 177ea6c779579dff146d5e21f6dcffe17fe3ae9f
- - rAthena/db/const.txt, commit c6ba813994eaaae0a98416f5be7ff65d0e8e13b5
+ - rAthena/db/const.txt, commit 5ed75dc8771da8c6fca649b2b8d9ae44a6541569
 
 
 Happy editing.
