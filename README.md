@@ -16,8 +16,8 @@ Defined rAthena NPC scripting language for Notepad++.
 
 
 ### Make a new style theme or edit existing one:
- - Make a new theme by copying stylers.xml in (C:\Users\<user>\AppData\Roaming\Notepad++) and rename it for your theme and edit it.
- - Save it in C:\Users\<user>\AppData\Roaming\Notepad++\themes folder.
+ - Make a new theme by copying stylers.xml in ( %APPDATA%\notepad++ ) and rename it for your theme and edit it.
+ - Save it in ( %APPDATA%\notepad++\themes ) folder.
  - Restart Notepad++ after edit.
 
 
