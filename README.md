@@ -3,14 +3,20 @@ rAthena-syntax-highlight
 
 Define rAthena npc scripting language for notepad++.
 
-Has all script commands and constants.
+Has all npc script commands and constants.
 
 
 How to add to notepad++ ?
  - Open your notepad++ and go to the Language > Define your language... > Import.
  - Use default styles in the Settings > Style Configurator > Select theme: Default.
- - Or you can download /themes/rAthenaWhite.xml and import it in the settings and then modify rAthenaWhite styles.
+ - Or you can download example style theme /themes/rAthenaWhite.xml and import it Settings < Import < Import style theme(s)....
  - Restart notepad++ after changing language or styles.
+
+
+Make a new style theme or edit existing one:
+ - Make a new theme by copying stylers.xml in (C:\Users\<user>\AppData\Roaming\Notepad++) and rename it for your theme and edit it.
+ - Save it in C:\Users\<user>\AppData\Roaming\Notepad++\themes folder.
+ - Restart notepad++ after edit.
 
 
 Sources:
