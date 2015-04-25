@@ -105,6 +105,7 @@
 		<KeyWord name="compare" />
 		<KeyWord name="completequest" />
 		<KeyWord name="consumeitem" />
+		<KeyWord name="continue" />
 		<KeyWord name="cooking" />
 		<KeyWord name="copyarray" />
 		<KeyWord name="countbound" />
