@@ -249,9 +249,10 @@
 		<KeyWord name="gettimetick" />
 		<KeyWord name="getunitdata" />
 		<KeyWord name="getunitname" />
-		<KeyWord name="getunitname" />
+		<KeyWord name="getunittype" />
 		<KeyWord name="getusers" />
 		<KeyWord name="getusersname" />
+		<KeyWord name="getvar" />
 		<KeyWord name="getvariableofnpc" />
 		<KeyWord name="getwaitingroomstate" />
 		<KeyWord name="globalmes" />
@@ -502,6 +503,7 @@
 		<KeyWord name="unitstopwalk" />
 		<KeyWord name="unittalk" />
 		<KeyWord name="unitwalk" />
+		<KeyWord name="unitwalkto" />
 		<KeyWord name="unitwarp" />
 		<KeyWord name="useatcmd" />
 		<KeyWord name="viewpoint" />
