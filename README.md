@@ -28,8 +28,8 @@ Defined rAthena NPC scripting language for Notepad++.
 
 
 ### Sources:
- - [rAthena Script Commands](https://github.com/rathena/rathena/blob/177ea6c779579dff146d5e21f6dcffe17fe3ae9f/doc/script_commands.txt)
- - [rAthena Constants](https://github.com/rathena/rathena/blob/5ed75dc8771da8c6fca649b2b8d9ae44a6541569/db/const.txt)
+ - [rAthena Script Commands](https://github.com/rathena/rathena/blob/b758f398826c4b8d670e40aea379bce672dec839/doc/script_commands.txt)
+ - [rAthena Constants](https://github.com/rathena/rathena/blob/b758f398826c4b8d670e40aea379bce672dec839/db/const.txt)
 
 
 Happy editing.
