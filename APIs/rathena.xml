@@ -348,6 +348,7 @@
 		<KeyWord name="monster" />
 		<KeyWord name="morphembryo" />
 		<KeyWord name="movenpc" />
+		<KeyWord name="navigateto" />
 		<KeyWord name="next" />
 		<KeyWord name="night" />
 		<KeyWord name="npcshopadditem" />
@@ -362,6 +363,7 @@
 		<KeyWord name="npcwalkto" />
 		<KeyWord name="nude" />
 		<KeyWord name="openauction" />
+		<KeyWord name="opendressroom" />
 		<KeyWord name="openmail" />
 		<KeyWord name="openstorage" />
 		<KeyWord name="party_addmember" />
@@ -448,6 +450,9 @@
 		<KeyWord name="setnpctimer" />
 		<KeyWord name="setoption" />
 		<KeyWord name="setquest" />
+		<KeyWord name="setquestinfo_level" />
+		<KeyWord name="setquestinfo_req" />
+		<KeyWord name="setquestinfo_job" />
 		<KeyWord name="setriding" />
 		<KeyWord name="setunitdata" />
 		<KeyWord name="setunitname" />
