@@ -22,7 +22,7 @@ Defined rAthena NPC scripting language for Notepad++.
 
 
 ## Auto-completion
- - Copy APIs/rathena.xml to Notepad++ installation folder APIs/rathena.
+ - Copy an APIs/[rathena.xml](https://github.com/Sehrentos/rAthena-syntax-highlight/blob/master/APIs/rathena.xml) file to Notepad++ installation folder `Path\to\Notepad++\plugins\APIs\`.
  - Open menu Settings > Preferences... > Auto-Completion tab, check "Enable auto-completion on each input".
  - Restart Notepad++.
 
